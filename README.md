@@ -23,6 +23,8 @@ Es ampliamente utilizado en la comunidad de desarrollo de software debido a su f
 **-** Ramas: Permite trabajar en diferentes versiones del proyecto de forma simultánea, facilitando la colaboración y la experimentación sin afectar la rama principal.
 
 **-** Solicitudes de Extracción: Permiten solicitar y revisar cambios en el código antes de fusionarlos con la rama principal, mejorando la calidad del código y facilitando la colaboración.
+Setting
+Puls o plus xd:
 
 ***CREACIÓN DE REPOSITORIOS:***
 
@@ -36,21 +38,38 @@ Los siguientes comandos, son algunos de los más comunes utilizados en Git para 
 
 **-** git clone: Clona un repositorio remoto en el sistema local.
 
+Ejemplo:
+
 **-** git add: Agrega cambios en el directorio de trabajo al área de preparación.
+
+Ejemplo:
 
 **-** git commit: Registra los cambios en el repositorio.
 
+Ejemplo:
+
 **-** git push: Envía los cambios locales al repositorio remoto.
+
+Ejemplo:
 
 **-** git pull: Obtiene cambios del repositorio remoto y los fusiona con la rama local.
 
+Ejemplo:
+
 **-** git branch: Lista, crea o elimina ramas.
+
+Ejemplo:
 
 **-** git merge: Fusiona cambios de una rama a otra.
 
+Ejemplo:
+
 **-** git checkout: Cambia entre diferentes ramas o versiones de archivos.
 
+Ejemplo:
+
 **-** git status: Muestra el estado actual del repositorio.
+Ejemplo:
 
 Ahora que tienes todas las herramientas de GitHub, ¿Qué estás esperando?
 ¡Es hora de ponerte manos a la obra y comenzar a crear! ¡Ve y haz realidad tus ideas! ¡Nos vemos, éxitos! 😊🌸✨
